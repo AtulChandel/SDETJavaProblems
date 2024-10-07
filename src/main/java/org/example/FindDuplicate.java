@@ -20,6 +20,5 @@ public class FindDuplicate {
                 ch.add(c);
             }
         }
-
     }
 }
