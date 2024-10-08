@@ -16,8 +16,8 @@ Day 2:
 
 Day 3:
 
-    Program to remove duplicate number from an array
+  Program to remove duplicate number from an array
 
-    Program to check if a number is prime or not
+  Program to check if a number is prime or not
 
-    Program to print fibonacci series
+  Program to print fibonacci series
