@@ -13,3 +13,11 @@ Day 2:
   Program to find total number of occurance of character in a string
   
   Program to find second largest number in an array
+
+Day 3:
+
+    Program to remove duplicate number from an array
+
+    Program to check if a number is prime or not
+
+    Program to print fibonacci series
