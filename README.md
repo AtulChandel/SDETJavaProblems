@@ -21,3 +21,9 @@ Day 3:
   Program to check if a number is prime or not
 
   Program to print fibonacci series
+
+Day 4:
+
+  Program to check if number is armstrong or not
+
+  Program to find all pairs in an array whose sum is given
